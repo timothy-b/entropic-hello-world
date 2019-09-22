@@ -1,0 +1,7 @@
+name = "timothy-b@registry.entropic.dev/entropic-hello-world"
+version = "0.0.0-beta"
+
+[dependencies]
+"@iarna/toml" = "^2.2.3"
+"legacy@registry.entropic.dev/figgy-pudding" = "^3.5.1"
+"legacy@registry.entropic.dev/chalk" = "^2.4.2"
